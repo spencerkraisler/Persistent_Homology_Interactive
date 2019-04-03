@@ -9,7 +9,7 @@ I've been really interested in this algorithm called Persistent Homology. PH is 
 
 ![](./media/unif_dist.gif)
 
-This paper is a lost more mathematically rigorous, but has some interesting theorems (and pretty pictures): https://www.math.upenn.edu/~ghrist/preprints/barcodes.pdf
+This paper is a lot more mathematically rigorous, but has some interesting theorems (and pretty pictures): https://www.math.upenn.edu/~ghrist/preprints/barcodes.pdf
 
 
 
